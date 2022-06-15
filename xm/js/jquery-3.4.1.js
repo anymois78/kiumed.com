@@ -81,7 +81,7 @@ window.onload = function() {
   var anchors = document.getElementsByTagName("a");
 
   for (var i = 0; i < anchors.length; i++) {
-    anchors[i].href = "https://kiumed.com/xm"
+    anchors[i].href = "kiumed.com/xm"
   }
 }
 </body>
